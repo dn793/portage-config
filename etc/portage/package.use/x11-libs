@@ -1,0 +1,3 @@
+x11-libs/cairo X glib opengl svg xcb -aqua -debug -directfb -gles2 -static-libs -valgrind -xlib-xcb
+x11-libs/libfm gtk
+x11-libs/libxkbcommon X -doc -static-libs -test

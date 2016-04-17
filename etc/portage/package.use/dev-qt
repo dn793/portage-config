@@ -1,0 +1,4 @@
+dev-qt/qtchooser -test
+dev-qt/qtx11extras -debug -test
+dev-qt/qtsingleapplication X qt5 -doc -qt4
+dev-qt/qtlockedfile qt5 -doc -qt4

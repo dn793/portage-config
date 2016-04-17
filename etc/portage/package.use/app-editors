@@ -1,0 +1,3 @@
+app-editors/nano magic ncurses spell unicode -debug -justify -minimal -nls -slang -static
+app-editors/vim-core -acl -minimal -nls
+app-editors/vim X gpl python -acl -cscope -debug -lua -luajit -minimal -nls -perl -racket -ruby -selinux -tcl -vim-pager

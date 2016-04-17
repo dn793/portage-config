@@ -1,0 +1,1 @@
+net-print/cups-filters dbus foomatic jpeg ldap png postscript -perl -static-libs -tiff -zeroconf

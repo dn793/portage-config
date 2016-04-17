@@ -1,0 +1,1 @@
+net-nds/openldap berkdb crypt icu minimal ssl syslog tcpd -cxx -debug -experimental -gnutls -iodbc -ipv6 -kerberos -kinit -libressl -odbc -overlays -perl -samba -sasl -selinux -slp -smbkrb5passwd -static-libs

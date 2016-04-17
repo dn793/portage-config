@@ -1,0 +1,5 @@
+app-text/ghostscript-gpl X cups dbus gtk -djvu -idn -static-libs -tiff
+app-text/libebook -doc -test
+app-text/libmspub -doc -static-libs
+app-text/poppler cairo cxx introspection jpeg lcms png qt5 utils -cjk -curl -debug -doc -jpeg2k -qt4 -tiff
+

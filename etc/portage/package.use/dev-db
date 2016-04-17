@@ -1,0 +1,3 @@
+dev-db/postgresql kerberos ldap pam python readline server ssl xml zlib -doc -libressl -nls -perl -pg -legacytimestamp -selinux -static-libs -tcl -threads -uuid
+dev-db/unixODBC minimal unicode -odbcmanual -static-libs
+dev-db/sqlite icu readline secure-delete -debug -doc -static-libs -tcl -test -tools

@@ -1,0 +1,2 @@
+net-misc/curl ipv6 ldap ssl -adns -http2 -idn -kerberos -metalink -rtmp -samba -ssh -static-libs -test -threads
+net-misc/tightvnc tcpd server -java

@@ -1,0 +1,3 @@
+www-client/firefox bindist ffmpeg gmp-autoupdate gstreamer gtk3 hwaccel jemalloc3 jit pulseaudio -custom-cflags -custom-optimization -dbus -debug -gstreamer-0 -hardened -neon -pgo -selinux -startup-notification -system-cairo -system-icu -system-jpeg -system-libevent -system-libvpx -system-sqlite -test -wifi
+www-client/links X ssl unicode -bzip2 -directfb -fbcon -gpm -ipv6 -jpeg -livecd -lzma -suid -svga -tiff -zlib
+www-client/palemoon dbus gstreamer gtk3 jemalloc official-branding optimize pulseaudio system-libs -alsa -gtk2 -necko-wifi -oss -shared-js

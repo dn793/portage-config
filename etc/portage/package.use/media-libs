@@ -1,0 +1,7 @@
+media-libs/fontconfig -doc -static-libs
+media-libs/harfbuzz cairo fontconfig glib graphite icu introspection truetype -static-libs -test
+media-libs/libcanberra gtk3
+media-libs/libcdr -doc -static-libs -test
+media-libs/libvisio -doc -static-libs -test -tools
+media-libs/raptor curl unicode -debug -json -static-libs
+media-libs/taglib -asf -debug -examples -mp4 -test

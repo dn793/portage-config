@@ -1,0 +1,2 @@
+app-office/libreoffice gtk gtk3 java -aqua -bluetooth -branding -coinmp -collada -cups -dbus -debug -eds -firebird -gltf -gnome -gstreamer -jemalloc -kde -libressl -kysql -odk -postgres -telepathy -test -vlc
+app-office/texstudio qt5 -qt4 -video

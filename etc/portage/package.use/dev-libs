@@ -1,0 +1,7 @@
+dev-libs/boost icu nls python threads -context -debug -doc -mpi -static-libs -tools
+dev-libs/elfutils bzip2 static-libs utils zlib -lzma -nls -test -threads
+dev-libs/glib dbus mime xattr -debug -fam -selinux -static-libs -systemtap -test -utils
+dev-libs/icu -debug -doc -examples -static-libs
+dev-libs/libpcre bzip2 cxx jit pcre16 readline recursion-limit unicode zlib -libedit -pcre32 -static-libs
+dev-libs/libxml2 icu python readline -debug -examples -ipv6 -lzma -static-libs -test
+dev-libs/quazip qt5 -qt4 -test

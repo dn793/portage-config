@@ -1,0 +1,1 @@
+sci-mathematics/octave X fftw gnuplot opengl readline -curl -doc -glpk -gui -hdf5 -imagemagick -java -jit -postscript -qhull -qrupdate -sparse -static-libs -zlib

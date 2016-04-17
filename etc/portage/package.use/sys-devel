@@ -1,0 +1,1 @@
+sys-devel/gcc cxx fortran multilib nptl openmp sanitize -altivec -awt -cilk -debug -doc -fixed-point -gcj -go -graphite -hardened -jit -libssp -multislot -nls -nopie -nossp -objc -objc++ -objc-gc -resgression-test -vanilla

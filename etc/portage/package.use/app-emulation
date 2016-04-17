@@ -1,0 +1,1 @@
+app-emulation/wine X alsa fontconfig jpeg lcms ldap mono mp3 ncurses opengl png prelink pulseaudio realtime run-exes ssl threads truetype udisks xml -capi -cups -custom-cflags -dos -gecko -gphoto2 -gsm -gstreamer -nls -odbc -openal -opencl -osmesa -oss -perl -samba -scanner -selinux -test -v4l -xcomposite -xinerama

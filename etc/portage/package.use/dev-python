@@ -1,0 +1,2 @@
+dev-python/cryptography -libressl -test python2_7 python 3_4 -pypy -python3_3 python3_5
+dev-python/pyopenssl -doc -examples

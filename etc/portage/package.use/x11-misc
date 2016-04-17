@@ -1,0 +1,1 @@
+x11-misc/xmobar -alsa -dbus inotify mpd mpris timezone wifi xft -xpm

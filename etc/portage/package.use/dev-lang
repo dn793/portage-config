@@ -1,0 +1,2 @@
+dev-lang/mono -doc -minimal -nls -pax_kernel -xen
+dev-lang/python sqlite
